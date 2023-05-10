@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/clear_data"
+        android:title="wyczysc dane"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/add_record"
+        android:title="dodaj model"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/action_3"
+        android:title="title1"
+        app:showAsAction="never"/>
+
+</menu>

@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Gryta_1_lab</string>
+    <string name="imie">Imie:</string>
+    <string name="podaj_imie">podaj imie</string>
+    <string name="nazwisko">Nazwisko:</string>
+    <string name="podaj_nazwisko">podaj nazwisko</string>
+    <string name="liczba_ocen">Liczba ocen:</string>
+    <string name="wpisz_liczb_ocen_5_15">Wpisz liczbę ocen (5-15)</string>
+    <string name="gradesLabel">Oceny: </string>
+    <string name="policz_srednia">Policz średnią</string>
+    <string-array name="przedmioty">
+        <item>Polski</item>
+        <item>Angielski</item>
+        <item>Paradygmaty programowania</item>
+        <item>Programowanie w Javie</item>
+        <item>Systemy wbudowane</item>
+        <item>Historia</item>
+        <item>Hiszpański</item>
+        <item>Biolka</item>
+        <item>Chemia</item>
+        <item>Historia Chin</item>
+        <item>WF</item>
+        <item>WF</item>
+        <item>Historia Browarnictwa</item>
+        <item>WF</item>
+        <item>WF</item>
+    </string-array>
+</resources>
